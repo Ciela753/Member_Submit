@@ -1,0 +1,299 @@
+.contract-div {
+    width: 600px;
+    height: auto;
+    position: relative;
+    margin-top: 20px;
+    float:right;
+    display: block;
+}
+.contract-textarea {
+    width: 600px;
+    height: 270px;
+}
+
+.contract-section {
+    width: 600px;
+    height: auto;
+    position: relative;
+    margin-left: 23%;
+    margin-top: 20px;
+    display: block;
+}
+
+.contract-button {
+    margin-top: 30px;
+    margin-left: 300px;
+    float: right; 
+    display: block;          
+}
+.contract-label {
+    float: right;
+    display: block;
+    
+}
+.detail-table {
+            
+    margin-left: 200px;
+    margin-top: 120px;
+    border-collapse: collapse;
+    border-top: 1px #98B5C6;
+
+}
+th {
+    background-color: #98B5C6;
+}
+th, td {
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.free-table {
+    width:632px;
+    margin-top: 120px;
+    margin-left: 220px;
+}
+.detail-table-td {
+width: 632px;
+}
+.detail-inline {
+display: inline;
+position: absolute;
+margin-top: 10px;
+margin-left: 690px;
+}
+.gallery-section-size {
+    width:600px;
+    height: 330px;
+    display: inline;
+}
+.gallery-div-size {
+    width:137px;
+    height: 137px;
+    background-color: #C3AA9A;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 40px 40px 40px 40px;
+   
+}
+.gallery-section {
+	width:739px;
+	margin: 0 auto;    
+}
+.gallery-img {
+    width: 136px;
+    height:136px;
+}
+.gallery-div-box {
+    background-color: #C3AA9A;
+    width: 20px;
+    height:20px;
+    margin-top: 40px;
+    margin-left: 15px;
+    color: aliceblue;
+    display: inline;
+}
+.gallery-div-position {
+    margin-top: 40px;
+    margin-left: 240px;
+}
+.index-body {
+    width: 1024px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+}
+.index-banner {
+    background-color: #98B5C6 ;
+    width: 100%;
+    height: 125px;
+}
+.index-image {
+    top :46px;
+    left:92px;
+    position: absolute;
+    width:214px;
+    height:50px;           
+}
+.index-text-left {
+    float: right;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+.index-list-background {
+    background-color:#C3AA9A ;
+    /* width: 1024px; */
+    height: 75px;
+}
+li {
+    display: inline-block;
+    list-style: none;
+    margin: 20px;
+}
+.main-image {
+    margin-top :46px;
+   
+    width:632px;
+    height:123px;
+    
+}
+.index-middle-banner {
+    margin-left:92px;
+    width: 632px;
+}
+.index-mini-image {
+    width: 63px;
+    height: 63px;
+    display: inline;
+}
+.index-section-margin {
+    margin: 50px 0px 50px 0px; 
+}
+.index-image-position {
+    float: left;
+}
+.index-p-text {
+    text-align: center;
+}
+.index-end-section {
+    margin-top: 120px;
+}
+.index-table {
+    border-collapse: collapse;
+
+}
+aside{
+    float:right;
+    width:200px;
+    height:auto;
+    text-align:center;
+    margin-top: 80px;
+}
+.index-footer {
+    background-color: #98B5C6;
+    position: absolute;
+    width: 100%;
+    height:180px;
+    
+}
+.index-footer-text {
+    text-align: center;
+    
+}
+.index-aside {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 60px;
+}
+.index-round {
+    background: #C3AA9A;
+    color: white;
+    padding:10px 0 0 0;
+    text-align: center;
+    display: inline-block;
+    width: 141px;
+    height: 56px;
+    border-radius: 20px;
+}
+.modify-textarea-size {
+    width: 600px;
+    height: 300px;
+}
+.notice-table {
+    margin-top: 120px;
+    margin-left: 200px;
+    border-collapse: collapse;
+    border-top: 1px #98B5C6;
+
+}
+
+.notice-div {
+    position: relative;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.notice-number-list {
+    margin-left: 400px;
+}
+.notice-number-box {
+    width: 40px;
+    height: 40px;
+    background: #C3AA9A;
+    display: inline;
+    border-radius: 10px;
+    color: white;
+}
+.notice-button {
+    background-color: #98B5C6;
+}
+.signin-section {
+    margin-top: 120px;
+    width: 400px;
+    position: relative;
+    margin-left: 23%;
+    display: block;
+}
+.signin-label {
+    display: block;
+}
+.signin-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+.signin-button {
+    width: 105%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+.signup-section {
+    margin-top: 120px;
+    width: 400px;
+    height: auto;
+    position: relative;
+    margin-left: 23%;
+    display: block;
+}
+.signup-label {
+    display: block;
+}
+.signup-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+.signup-button {
+    width: 105%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+.write-section {
+    width:1024px;
+    
+}
+.write-table {
+    width: 65%;
+    
+    
+}
+.write-textarea {
+    width:600px;
+    height:300px;
+    padding: 10px;
+}
+.write-input-text {
+    width:600px;
+    height:auto;
+}
+.write-div-button {
+    position: relative;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+.write-div {
+    position: relative;
+    margin-top: 80px;
+    left: 20%;
+}
+.write-inline {
+    float: right;
+    margin-right: 20%;
+}
